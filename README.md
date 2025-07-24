@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/bethandonovan/Leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/bethandonovan/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/bethandonovan/Leetcode/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/bethandonovan/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/bethandonovan/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/bethandonovan/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/bethandonovan/Leetcode/tree/master/1811-fix-names-in-a-table) |
